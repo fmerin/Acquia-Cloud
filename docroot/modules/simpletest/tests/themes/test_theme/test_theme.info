@@ -22,7 +22,3 @@ version = "7.38"
 project = "drupal"
 datestamp = "1434567286"
 
-
-; Information added by Acquia.com packaging script
-acquia = "1"
-
